@@ -1,5 +1,6 @@
 
 # Classical Music Only: Browser Extension
+[![Build Status](https://travis-ci.org/classicalmusiconly/classicalmusiconly-extension.svg?branch=master)](https://travis-ci.org/classicalmusiconly/classicalmusiconly-extension)
 
 
 A browser extension to help you discover the world of classical music using [classicalmusiconly.com](https://classicalmusiconly.com).
