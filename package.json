@@ -8,6 +8,7 @@
     "vue": "^2.5.13"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "copy-webpack-plugin": "^4.3.1",
     "cross-env": "^5.1.3",
