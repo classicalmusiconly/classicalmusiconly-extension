@@ -4,7 +4,7 @@
 
   "name": "Classical Music Only",
   "description": "Discover and listen to thousands of classical music works filtered by category, period and composer.",
-  "version": "1.0.2",
+  "version": "1.0.3",
 
   "browser_action": {
     "default_icon": "icons/cmo_128.png",
